@@ -28,7 +28,9 @@ require( dirname( __FILE__ ) . '/wp/wp-blog-header.php' );
 ※ドメイン直下に.htaccessがある場合は確認が必要（上書きではなく追記になると思います）<br><br>
 
 <a id="a02"></a>
-##郵便番号自動入力（MW WP Form）
+
+## 郵便番号自動入力（MW WP Form）
+
 `scripts.php`に下記を入力（コメントアウトされている）
 `\lib\functions\scripts.php`
 ```
